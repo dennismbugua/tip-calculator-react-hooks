@@ -1,0 +1,49 @@
+body {
+  background-image: linear-gradient(to right, #281c16, #8e0e00);
+}
+.App {
+  margin-top: 100px;
+}
+.container {
+  border: solid 1px;
+  margin: auto;
+  width: 300px;
+  text-align: left;
+  padding-left: 10px;
+  border-radius: 0px 0px 10px 10px;
+  background: lightgrey;
+}
+
+h2 {
+  width: 300px;
+  text-align: center;
+  background: darkred;
+  color: white;
+  margin: auto;
+  padding: 10px 7px;
+  border-radius: 10px 10px 0px 0px;
+}
+input,
+select {
+  padding: 10px;
+  width: 200px;
+  margin: 5px;
+}
+.btn {
+  text-align: center;
+  margin: 20px;
+}
+button {
+  padding: 10px;
+  width: 150px;
+  border-radius: 5px;
+  background: darkred;
+  color: white;
+  font-weight: bold;
+}
+.tip {
+  display: none;
+}
+.a {
+  display: unset;
+}
